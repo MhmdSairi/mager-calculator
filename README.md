@@ -1,2 +1,0 @@
-# mager-calculator
-Calcula
